@@ -5,8 +5,7 @@ import pandas as pd
 import streamlit as st
 
 """
-# Presupuesto Leonardo 2023
+# NFL Stats
 
-Análisis:
 
 """
