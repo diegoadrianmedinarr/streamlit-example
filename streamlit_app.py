@@ -10,3 +10,5 @@ gasto_Mensual = {
                   "Marzo": 1900
                 }
 
+st.bar_chart(gasto_Mensual)
+
