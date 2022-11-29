@@ -4,11 +4,6 @@ import numpy as np
 
 st.title('Presupuesto 2023 - León')
 
-gasto_Mensual = {
-                  "Enero": 1200,
-                  "Febrero": 1400,
-                  "Marzo": 1900
-                }
+data = {'Enero': [100], 'Febrero': [80]}
 
-
-
+df = pd.DataFrame(data=data)
